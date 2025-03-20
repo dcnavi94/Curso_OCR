@@ -13,3 +13,7 @@ Linux 	cv2.CAP_GSTREAMER 	GStreamer, un backend avanzado que soporta transmisió
 macOS 	cv2.CAP_AVFOUNDATION 	AVFoundation, backend moderno de Apple para cámaras y multimedia. Optimizado para macOS.
 Todos 	cv2.CAP_FFMPEG 	FFmpeg, backend multiplataforma que soporta una gran variedad de formatos de video y códecs.
 Todos 	cv2.CAP_IMAGES 	Backend genérico para trabajar con imágenes estáticas
+
+Documentacion 
+  https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
+  https://docs.opencv.org/3.4/d8/d01/group__imgproc__color__conversions.html
